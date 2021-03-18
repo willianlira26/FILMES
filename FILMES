@@ -1,18 +1,20 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 14/03/2021" background="httt", 14/03/2021
+#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 19/03/2021" background="httt", 19/03/2021
 https://r350home.files.wordpress.com/2020/04/fanart.jpg
-#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 14/03/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012731.jpg" group-title="ATUALIZADO 14/03/2021" background="https://jx7home.files.wordpress.com/2021/03/falcaoesoldado.jpg", FALCÃO E O SOLDADO INVERNAL (EM MARÇO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012731.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/falcaoesoldado.jpg", FALCÃO E O SOLDADO INVERNAL (EM MARÇO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/02/2_5262835603468192277.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210303_093309.jpg" group-title="ATUALIZADO 14/03/2021" background="https://jx7home.files.wordpress.com/2021/03/ldj.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (EM MARÇO - VEJA O TRAILER)
-https://jx7home.files.wordpress.com/2021/03/01.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="ATUALIZADO 14/03/2021" background="https://jx7home.files.wordpress.com/2021/03/gvk-1.jpg", GODZILLA VS KONG (EM ABRIL - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/gvk-1.jpg", GODZILLA VS KONG (EM ABRIL - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/02/2_5251414946125712411.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 14/03/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/03/2_5334634348417125753.mp4
 
 #EXTINF:-1 tvg-logo="hts" group-title="LANÇAMENTOS" background="httt",
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (DUBLADO)
+https://zsjlonline.files.wordpress.com/2021/03/snydercut-dublado.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (LEGENDADO)
+https://zsjlonline.files.wordpress.com/2021/03/snydercut-legendado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/cherry.jpg", CHERRY: INOCÊNCIA PERDIDA (LEG)
 https://sobdbd.files.wordpress.com/2021/03/cherry-legendado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/cherry.jpg", CHERRY: INOCÊNCIA PERDIDA (DUB)
@@ -211,7 +213,7 @@ https://infantil08art.files.wordpress.com/2020/06/piratasc04dub-baixo.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/salazar.jpg"  group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/03/salazar.jpg", PIRATAS DO CARIBE: A VINGANÇA DE SALAZAR
 https://acao5data.files.wordpress.com/2020/06/piratas.do_.caribe.a.vinganc3a7a.de_.salazar.2017.mp4.dub_.baixarseriesmp4.org_.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210303_115804.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/1f89161371677658.jpg", UM PRÍNCIPE EM NOVA YORK 2 (DUB)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210303_115804.jpg" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/03/1f89161371677658.jpg", UM PRÍNCIPE EM NOVA YORK 2 (DUB)
 https://top12data.files.wordpress.com/2021/03/um-principe-em-nova-york-2-dub.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/01/20210124_135218.jpg" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/03/principe.jpg", UM PRÍNCIPE EM NOVA YORK 1
 https://fatewinxcode.files.wordpress.com/2021/01/um-principe-em-nova-york-dublado.mp4
@@ -2529,28 +2531,3 @@ https://bobesponjas03data.files.wordpress.com/2020/08/beso3e35.avi
 https://j54home.files.wordpress.com/2020/08/beso3e36.avi
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video/v4/d8/0e/41/d80e4132-bc45-d41e-0c5f-b11bf8d9e0a4/source/600x600bb.jpg" group-title="BOB ESPONJA" aspect-ratio="3:2",03x27
 https://j54home.files.wordpress.com/2020/08/beso3e37.avi
-
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x01
-https://bojack01data.files.wordpress.com/2020/08/bojack-01-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x02
-https://bojack01data.files.wordpress.com/2020/08/bojack-02-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x03
-https://bojack01data.files.wordpress.com/2020/08/bojack-03-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x04
-https://bojack01data.files.wordpress.com/2020/08/bojack-04-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x05
-https://bojack01data.files.wordpress.com/2020/08/bojack-05-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x06
-https://bojack01data.files.wordpress.com/2020/08/bojack-06-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x07
-https://bojack01data.files.wordpress.com/2020/08/bojack-07-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x08
-https://bojack01data.files.wordpress.com/2020/08/bojack-08-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x09
-https://bojack01data.files.wordpress.com/2020/08/bojack-09-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x10
-https://bojack01data.files.wordpress.com/2020/08/bojack-10-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x11
-https://bojack01data.files.wordpress.com/2020/08/bojack-11-dublado.mp4
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/282254/tvposter/bojack-horseman-55afa4093ebbf.jpg" group-title="BOJACK HORSEMAN" background="httt",01x12
-https://bojack01data.files.wordpress.com/2020/08/bojack-12-dublado.mp4
