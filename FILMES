@@ -1,16 +1,16 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 19/03/2021" background="httt", 19/03/2021
+#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 20/03/2021" background="httt", 20/03/2021
 https://r350home.files.wordpress.com/2020/04/fanart.jpg
-#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/fanart.jpg" group-title="ATUALIZADO 20/03/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012731.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/falcaoesoldado.jpg", FALCÃO E O SOLDADO INVERNAL (EM MARÇO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012731.jpg" group-title="ATUALIZADO 20/03/2021" background="https://jx7home.files.wordpress.com/2021/03/falcaoesoldado.jpg", FALCÃO E O SOLDADO INVERNAL (EM MARÇO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/02/2_5262835603468192277.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/gvk-1.jpg", GODZILLA VS KONG (EM ABRIL - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="ATUALIZADO 20/03/2021" background="https://jx7home.files.wordpress.com/2021/03/gvk-1.jpg", GODZILLA VS KONG (EM ABRIL - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/02/2_5251414946125712411.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 19/03/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 20/03/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/03/2_5334634348417125753.mp4
 
-#EXTINF:-1 tvg-logo="hts" group-title="LANÇAMENTOS" background="httt",
+#EXTINF:-1 tvg-logo="hts" group-title="LANÇAMENTOS" background="httt", 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (DUBLADO)
 https://zsjlonline.files.wordpress.com/2021/03/snydercut-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (LEGENDADO)
@@ -1404,6 +1404,9 @@ http://webtvcde.com/Filmes/Dublados/Olhos.Famintos.3.mkv
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video128/v4/0f/d5/5a/0fd55a92-7319-59ac-cd69-6b5139e5c317/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="httt", JOGOS MORTAIS: JIGSAW
 https://filme10movie.files.wordpress.com/2020/10/jigsaw-2018-dub.mp4
 
+
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012731.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/falcaoesoldado.jpg", 01x01
+https://tfatws.files.wordpress.com/2021/03/falcao-e-o-soldado-invernal-s01e01-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x01
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e01-720p-dublado.mp4
