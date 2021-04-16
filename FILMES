@@ -1,21 +1,22 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 09/04/2021" background="httt", 09/04/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 16/04/2021" background="httt", 16/04/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 09/04/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 16/04/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 09/04/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/kombat.jpg" group-title="ATUALIZADO 16/04/2021" background="https://jx7home.files.wordpress.com/2021/03/kombat.jpg", MORTAL KOMBAT (EM MAIO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/03/2_5334634348417125753.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/loki-p.jpg" group-title="ATUALIZADO 09/04/2021" background="https://jx7home.files.wordpress.com/2021/04/lokii.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/loki-p.jpg" group-title="ATUALIZADO 16/04/2021" background="https://jx7home.files.wordpress.com/2021/04/lokii.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/loki.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 09/04/2021" background="https://jx7home.files.wordpress.com/2021/04/sj2ww.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 16/04/2021" background="https://jx7home.files.wordpress.com/2021/04/sj2ww.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/space-jam-2-trailer.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 09/04/2021" background="https://jx7home.files.wordpress.com/2021/04/oes.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 16/04/2021" background="https://jx7home.files.wordpress.com/2021/04/oes.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/03/o-esquadrao-suicida.mp4
 
 #EXTINF:-1 tvg-logo="hts" group-title="LANÇAMENTOS" background="httjt",
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/03/gvk-1.jpg", GODZILLA VS KONG (LEGENDADO)
-https://hsjdjd.files.wordpress.com/2021/04/godzilla-vs-kong-legendado.mp4
 
+
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/gvk.jpg", GODZILLA VS KONG (LEGENDADO)
+https://hsjdjd.files.wordpress.com/2021/04/godzilla-vs-kong-legendado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2025/03/20210309_124224.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/12/tenet.jpg", TENET (DUBLADO)
 https://tenetdata.files.wordpress.com/2020/12/tenet-2020-720p-dublado.mp4
 #EXTINF:-1 tvg-logo="https://filmes12movie.files.wordpress.com/2020/11/2713418.jpg" group-title="AÇÃO/AVENTURA" background="httt", ARMAS EM JOGO (DUB)
@@ -46,7 +47,7 @@ https://video.wixstatic.com/video/f1e917_c9b9c1cdf9ed49c1b19d20cdf21cb510/480p/m
 https://filmescar.files.wordpress.com/2019/08/hellboy.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4
 #EXTINF:-1 tvg-logo="http" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/godzilla-1.jpg", GODZILLA 1
 https://filmesacaomovie.files.wordpress.com/2020/07/godzilla.2014.dublado.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/05/20200525_133636.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/godzilla-2.jpg", GODZILLA 2 - REI DOS MONSTROS (DUB)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/pos.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/wall.jpg", GODZILLA 2 - REI DOS MONSTROS (DUB)
 https://fillmeze.files.wordpress.com/2019/08/godzilla.ii_.rei_.dos_.monstros.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4
 #EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/20200411_114346.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/02/20210204_135746.jpg", KONG: A ILHA DA CAVEIRA
 https://filme4movie.files.wordpress.com/2020/10/kong-ilha-da-caveira-2017-dublado.mp4
@@ -768,7 +769,7 @@ https://filmescar.files.wordpress.com/2019/06/dumbo.2019.720p.bluray.x264-dublad
 https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/BATMANVSTARTARUGASNINJAS-BAIXO.mp4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/ff/4e/4a/ff4e4a97-76b5-89eb-b564-43a5d3cb02aa/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/03/dbs-broly.jpg", DRAGON BALL SUPER: BROLY (DUB)
 https://movies02onlinemovie.files.wordpress.com/2020/03/filme-1-broly.mp4
-#EXTINF:-1 tvg-logo="https://j54home.files.wordpress.com/2020/09/20200923_185246.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/aranhaverso.jpg", HOMEM-ARANHA NO ARANHAVERSO
+#EXTINF:-1 tvg-logo="https://j54home.files.wordpress.com/2020/09/20200923_185246.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/spider.jpg", HOMEM-ARANHA NO ARANHAVERSO
 https://videos.files.wordpress.com/XSZHJZGh/homem-aranha.no_.aranhaverso.2019.720p-dublado_hd.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/ralph-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/11/ralph-1.jpg", DETONA RALPH
 https://ia800606.us.archive.org/25/items/Detona_Ralph_720p_-_Ciine_Beta_-/Detona_Ralph_720p_-_Ciine_Beta_-.mp4
@@ -1449,6 +1450,8 @@ https://tfatws.files.wordpress.com/2021/03/falcao-e-o-soldado-invernal-s01e02-du
 https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e03-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/4.jpg", 01x04
 https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e04-dub-1.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/4.jpg", 01x05
+https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e05-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x01
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e01-720p-dublado.mp4
