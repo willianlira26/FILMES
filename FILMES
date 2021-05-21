@@ -1,19 +1,20 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 17/05/2021" background="httt", 17/05/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 22/05/2021" background="httt", 22/05/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 17/05/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/loki-p-1.jpg" group-title="ATUALIZADO 17/05/2021" background="https://jx7home.files.wordpress.com/2021/05/loki-w-1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/loki-p-1.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/05/loki-w-1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/loki.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 17/05/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 17/05/2021" background="https://jx7home.files.wordpress.com/2021/04/jam.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/04/jam.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/space-jam-2-trailer.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 17/05/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/esquadrao-suicida-2.mp4
 
 #EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="httjt",
-
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/05/armyw.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUBLADO)
+https://sujdjd.files.wordpress.com/2021/05/army-of-the-dead-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/mkm.jpg", MORTAL KOMBAT (LEGENDADO)
 https://themzer.files.wordpress.com/2021/04/mortal-kombat-leg.mp4
@@ -39,7 +40,7 @@ https://webcinema5.files.wordpress.com/2020/03/bloodshot.2020.dub_.mp4
 https://defilmesmovie.files.wordpress.com/2020/02/as.panteras.2019.mp4.dub_.baixarseriesmp4.org_.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/terminator.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/03/terminator.jpg", O EXTERMINADOR DO FUTURO: DESTINO SOMBRIO (DUB)
 https://cinemaeslancamentosmovie.files.wordpress.com/2020/01/o.exterminador.do_.futuro.destino.sombrio.2019.mp4.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/05/20200525_133457.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/gemini.jpg", PROJETO GEMINI (DUB)
+#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/05/20200525_133457.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/05/gemini.jpg", PROJETO GEMINI (DUB)
 https://7pluslawlaw.files.wordpress.com/2020/05/geminiprojectdub-baixo.mp4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/77/fb/19/77fb1931-60ac-c67a-dde0-153411432593/source/600x600bb.jpg" group-title="AÇÃO/AVENTURA" background="httt", RAMBO: ATÉ O FIM (DUB)
 https://5163home.files.wordpress.com/2020/06/ramboateofimdubhd-baixo.mp4
@@ -572,7 +573,7 @@ https://homemaranhaonlinehome.files.wordpress.com/2020/06/haranha3dub-baixo.mp4
 
 #EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/05/tasm.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/tasm-1.jpg", O ESPETACULAR HOMEM ARANHA
 https://crisenasinfinitasterrasart.files.wordpress.com/2020/01/o_espetacular_homem_aranha.mp4.dub_.baixarseriesmp4.org_1.mp4
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/03/a8/ab/03a8ab14-da72-aa50-a50c-f4558f4a5594/source/600x600bb.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/tasm-2.jpg", O ESPETACULAR HOMEM ARANHA 2
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video118/v4/03/a8/ab/03a8ab14-da72-aa50-a50c-f4558f4a5594/source/600x600bb.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/05/tasm.jpg", O ESPETACULAR HOMEM ARANHA 2
 https://crisenasinfinitasterrasart.files.wordpress.com/2020/01/o.espetacular.homem_.aranha.2.2014.mp4.dub_.baixarseriesmp4.org_.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210221_131202.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/20210221_132130.jpg", BATMAN BEGINS
 https://ocavalarodastrevas.files.wordpress.com/2020/01/batman_begins_720p_210gji.mp4
@@ -1020,29 +1021,29 @@ https://infantil06art.files.wordpress.com/2020/05/malvado.favorito.2.avi
 https://meumalvadofavoritoart.files.wordpress.com/2020/01/meumalvado3-dub-480p.mp4
 #EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/05/minions.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/11/minions.jpg", MINIONS
 https://2020filme.files.wordpress.com/2020/01/www.mega-debrit.com_26f438983_minions-2015.mp4.dub_.baixarseriesmp4.com_.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/fera-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/fera.png", A BELA E A FERA
+#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/fera-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/bf.jpg", A BELA E A FERA
 https://filmesacaomovie.files.wordpress.com/2020/07/belafera2017dub.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/fera-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/bela.png", A BELA E A FERA (ANIMAÇÃO)
+#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/fera-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/bff.jpg", A BELA E A FERA (ANIMAÇÃO)
 https://acao4data.files.wordpress.com/2020/06/a-bela-ea-fera-91.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/reileao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/11/rei-1.jpg", O REI LEÃO
+#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/reileao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/rei-leao.jpg", O REI LEÃO
 https://movies02onlinemovie.files.wordpress.com/2020/03/reileo1994.mp4
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/89/89/64/20447033.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O REI LEÃO 2
 https://reileaoart.files.wordpress.com/2020/05/o-rei-lec3a3o-2.mp4
-#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/109948/8/109948840SZ.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O REI LEÃO 3
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/109948/8/109948840SZ.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/rl3.jpg", O REI LEÃO 3
 https://reileaoart.files.wordpress.com/2020/05/o-rei-lec3a3o-3.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/01/20210115_112855.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2021/01/20210115_112916.jpg", PINÓQUIO
 https://mankdata.files.wordpress.com/2021/01/pinoquio-1940-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210403_235953.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/20210403_235953.jpg", IRMÃO URSO
 https://ks4ex.files.wordpress.com/2021/04/irmao-urso.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210404_001131.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/20210404_001131.jpg", GIGANTE DE FERRO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/ferro.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/gigante.jpg", GIGANTE DE FERRO
 https://sujdjd.files.wordpress.com/2021/04/gigante-de-ferro-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210404_001119.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/20210404_001119.jpg", PLANETA DO TESOURO
 https://sujdjd.files.wordpress.com/2021/04/planeta-do-tesouro.mp4
 #EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/04/rango.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/03/rango.jpg", RANGO
 https://2filmesinfatis.files.wordpress.com/2019/12/rango.2011.versc3a3o.estendida.mp4
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/06/21/31/06213157-da13-f3fc-b3ca-05e456ea41ca/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/willy-2.png", A FANTASTICA FABRICA DE CHOCOLATE (1971)
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/06/21/31/06213157-da13-f3fc-b3ca-05e456ea41ca/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/willy.jpg", A FANTASTICA FABRICA DE CHOCOLATE (1971)
 https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/FANTASTICAFABRICADECHOCOLATES1971.mkv
-#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video/v4/70/6c/62/706c62ca-0040-8f88-e3e7-2e166c9a8835/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/willy-1.png", A FANTASTICA FABRICA DE CHOCOLATE (2005)
+#EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video/v4/70/6c/62/706c62ca-0040-8f88-e3e7-2e166c9a8835/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/chocolate.jpg", A FANTASTICA FABRICA DE CHOCOLATE (2005)
 https://baixarfilmesart.files.wordpress.com/2020/01/charlie.and_.the_.chocolate.factory.2005.mp4.dub_.baixarseriesmp4.org_.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/db/ff/8c/dbff8c7e-2caa-a2b5-b183-deb3b4ec830f/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/emoji.png", EMOJI - O FILME
 https://f000.backblazeb2.com/file/filmesonline2020/Emoji.O.Filme.mp4
@@ -1368,8 +1369,6 @@ https://top9u.files.wordpress.com/2021/03/homem-duplicado-dub.mp4
 https://top9u.files.wordpress.com/2021/03/os-suspeitos-dublado.mp4
 #EXTINF:-1 tvg-logo="https://thechocolate8.files.wordpress.com/2020/12/images-_2_.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/03/20210304_001742.jpg", ENTERRADO VIVO
 https://thechocolate8.files.wordpress.com/2020/12/enterradovivodub-baixo.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210407_004944.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/04/20210407_004944.jpg", A HORA DA SUA MORTE
-https://sujdjd.files.wordpress.com/2021/04/hora-da-sua-morte.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210407_002359.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/04/20210407_002240.jpg", A MORTE TE DÁ PARABENS 1
 https://hsjdjd.files.wordpress.com/2021/04/a-morte-te-da-parabens.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210407_002845.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/04/20210407_002845.jpg", A MORTE TE DÁ PARABENS 2
