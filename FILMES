@@ -1,18 +1,20 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 22/05/2021" background="httt", 22/05/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 26/05/2021" background="httt", 26/05/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/loki-p-1.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/05/loki-w-1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/loki-p-1.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/05/loki-w-1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/loki.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/04/jam.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/04/jam.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/space-jam-2-trailer.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 22/05/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/esquadrao-suicida-2.mp4
 
 #EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="httjt",
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUBLADO)
+https://2721data.files.wordpress.com/2021/05/godzilla-vs-kong-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/05/armyw.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUBLADO)
 https://sujdjd.files.wordpress.com/2021/05/army-of-the-dead-dub.mp4
 
