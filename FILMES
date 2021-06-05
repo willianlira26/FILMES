@@ -1,30 +1,35 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 26/05/2021" background="httt", 26/05/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 05/06/2021" background="httt", 05/06/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/loki-p-1.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/05/loki-w-1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/loki-p.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/06/loki1.jpg", LOKI (EM JUNHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/loki.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/luca-p.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/06/luca.jpg", LUCA (EM JUNHO - VEJA O TRAILER)
+https://jx7home.files.wordpress.com/2021/06/luca.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/04/jam.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/06/spacejam2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/space-jam-2-trailer.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 26/05/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/05/thess-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/esquadrao-suicida-2.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 05/06/2021" background="https://jx7home.files.wordpress.com/2021/06/whatifp.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
+https://jx7home.files.wordpress.com/2021/06/whatif.mp4
+
 
 #EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="httjt",
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/cruella-poster.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/05/cruela.jpg", CRUELLA (DUBLADO)
 https://2721data.files.wordpress.com/2021/05/cruella-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUBLADO)
+
+
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUBLADO)
 https://2721data.files.wordpress.com/2021/05/godzilla-vs-kong-dublado.mp4
-
-
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/05/aemy.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUBLADO)
-https://sujdjd.files.wordpress.com/2021/05/army-of-the-dead-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/mkm.jpg", MORTAL KOMBAT (LEGENDADO)
-https://themzer.files.wordpress.com/2021/04/mortal-kombat-leg.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (LEGENDADO)
 https://hsjdjd.files.wordpress.com/2021/04/godzilla-vs-kong-legendado.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/05/aemy.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUBLADO)
+https://sujdjd.files.wordpress.com/2021/05/army-of-the-dead-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (LEGENDADO)
+https://themzer.files.wordpress.com/2021/04/mortal-kombat-leg.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210309_124224.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/12/tenet.jpg", TENET (DUBLADO)
 https://tenetdata.files.wordpress.com/2020/12/tenet-2020-720p-dublado.mp4
 #EXTINF:-1 tvg-logo="https://filmes12movie.files.wordpress.com/2020/11/2713418.jpg" group-title="AÇÃO/AVENTURA" background="httt", ARMAS EM JOGO (DUB)
@@ -480,7 +485,7 @@ https://horadorushcode.files.wordpress.com/2020/09/mulher.maravilha.2017.dub_.mp
 https://afilmes9movie.files.wordpress.com/2020/10/liga.da_.justica.dub_.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/aquaman.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/aquaman.jpg", AQUAMAN
 https://top5dotsciencedotblog.files.wordpress.com/2021/02/aquaman-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/shazam-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/05/shazam.jpg", SHAZAM!
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/shazam-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/06/shazam.jpg", SHAZAM!
 https://filmes0online.files.wordpress.com/2019/11/shazamdub.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/bc/bb/6c/bcbb6c73-145e-4d7c-6824-5376f6c71b30/pr_source.lsr/600x600bb.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/20210214_011734.jpg", AVES DE RAPINA (DUB)
 https://93325home.files.wordpress.com/2020/05/aves.de_.rapina.dub_.mp4
@@ -592,7 +597,7 @@ https://7pluslawlaw.files.wordpress.com/2020/05/batman-1989.mp4
 https://k68home.files.wordpress.com/2020/03/supermanofilmedub-baixo.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210221_153156.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/20210221_153135-1.jpg", JOGADOR NÚMERO 1
 https://filme6movie.files.wordpress.com/2020/10/jogador-n1-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/pr-2.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/05/pr-1.jpg", POWER RANGERS
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/pr-2.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/06/powerrangers.jpg", POWER RANGERS
 https://filmes1video.files.wordpress.com/2020/03/power2017dub2-baixo.mp4
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video60/v4/b7/1e/a6/b71ea64d-d773-5fab-095c-be516c6f089a/source/600x600bb.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/x1.jpg", X-MEN
 https://xmendatablog.files.wordpress.com/2020/04/xmen-baixo.mp4
@@ -694,7 +699,7 @@ https://top9u.files.wordpress.com/2021/03/tom-e-jerry-2021-leg.mp4
 https://top3data.files.wordpress.com/2021/02/wolfwalkers-dublado.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/01/20210124_122135.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/trolls-2.jpg", TROLLS 2 (DUBLADO)
 https://thechocolate8.files.wordpress.com/2021/01/trolls-2-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/soul.jpg", SOUL (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/soul.jpg", SOUL (DUBLADO)
 https://filmes15movie.files.wordpress.com/2020/12/soul-dublado.mp4
 #EXTINF:-1 tvg-logo="https://filmes14movie.files.wordpress.com/2020/12/3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://filmes14movie.files.wordpress.com/2020/12/3.jpg", LEGO STAR WARS - ESPECIAL DE NATAL (DUBLADO)
 https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial-de-natal.mp4
@@ -1175,7 +1180,7 @@ https://1filmeinfantis.files.wordpress.com/2019/12/mulan-baixo.mp4
 https://8iogame.files.wordpress.com/2020/04/festa-no-cc3a9u-2014-720p-dublado-alan_680.mp4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/05/83/72/05837218-8a78-15c1-4e0a-7efeadc2b47f/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/sr-raposo.png", O FANTÁSTICO SR RAPOSO
 https://filme2movie.files.wordpress.com/2020/09/fantastico-sr-raposo-2009.mp4
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/15/aa/55/15aa550e-7887-dcdb-ae0d-87c85f157118/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/akira.jpg", AKIRA
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/15/aa/55/15aa550e-7887-dcdb-ae0d-87c85f157118/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/akira.jpg", AKIRA
 https://filmes3movie.files.wordpress.com/2020/09/akira-1988-blu-ray-720p-dublado-top-filmes-torrents.mp4
 
 #EXTINF:-1 tvg-logo="https://chefaodata.files.wordpress.com/2020/10/20200309-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/12/chihiro.jpg", A VIAGEM DE CHIHIRO
@@ -1456,6 +1461,23 @@ http://webtvcde.com/Filmes/Dublados/Olhos.Famintos.3.mkv
 https://filme10movie.files.wordpress.com/2020/10/jigsaw-2018-dub.mp4
 
 
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x01
+https://trysweettooth.files.wordpress.com/2021/06/s01e01.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x02
+https://trysweettooth.files.wordpress.com/2021/06/s01e02.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x03
+https://trysweettooth.files.wordpress.com/2021/06/s01e03.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x04
+https://trysweettooth.files.wordpress.com/2021/06/s01e04.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x05
+https://trysweettooth.files.wordpress.com/2021/06/s01e05.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x06
+https://trysweettooth.files.wordpress.com/2021/06/s01e06.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x07
+https://trysweettooth.files.wordpress.com/2021/06/s01e07.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x08
+https://trysweettooth.files.wordpress.com/2021/06/s01e08.mp4
+
 #EXTINF:-1 tvg-logo="https://ldr01.files.wordpress.com/2021/05/lrdp-2.jpg" group-title="LOVE, DEATH & ROBOTS - DUBLADO" background="https://ldr01.files.wordpress.com/2021/05/ldr1-2.jpg", 01x01
 https://ldr01.files.wordpress.com/2021/05/01.mp4
 #EXTINF:-1 tvg-logo="https://ldr01.files.wordpress.com/2021/05/lrdp-2.jpg" group-title="LOVE, DEATH & ROBOTS - DUBLADO" background="https://ldr01.files.wordpress.com/2021/05/ldr1-2.jpg", 01x02
@@ -1527,36 +1549,36 @@ https://weim37.files.wordpress.com/2021/05/07.mp4
 #EXTINF:-1 tvg-logo="https://invincible01plus.files.wordpress.com/2021/05/p.jpg" group-title="INVENCÍVEL - DUBLADO" background="https://invincible01plus.files.wordpress.com/2021/05/01.jpg", 01x08
 https://weim37.files.wordpress.com/2021/05/08.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x01
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x01
 https://tfatws.files.wordpress.com/2021/03/falcao-e-o-soldado-invernal-s01e01-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x02
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x02
 https://tfatws.files.wordpress.com/2021/03/falcao-e-o-soldado-invernal-s01e02-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x03
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x03
 https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e03-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x04
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x04
 https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e04-dub-1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x05
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x05
 https://tfatws.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e05-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/falcon.jpg", 01x06
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/fsi.jpg" group-title="FALCÃO E O SOLDADO INVERNAL - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/tfatws1.jpg", 01x06
 https://themzer.files.wordpress.com/2021/04/falcao-e-o-soldado-invernal-s01e06-dub.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x01
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x01
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e01-720p-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x02
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x02
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e02-720p-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x03
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x03
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e03-720p-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x04
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x04
 https://wandavisioncode.files.wordpress.com/2021/01/wandavision-s01e04-720p-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x05
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x05
 https://wandavisioncode.files.wordpress.com/2021/02/wandavision-s01e05-720p-dub-2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x06
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x06
 https://wandavisioncode.files.wordpress.com/2021/02/wandavision-s01e06-720p-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x07
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x07
 https://wandavisioncode.files.wordpress.com/2021/02/wandavision-s01e07-720p-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x08
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x08
 https://wandavisionblog.files.wordpress.com/2021/02/wandavision-s01e08-720p-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/2.jpg", 01x09
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/poster.jpg" group-title="WANDAVISION - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/wv2.jpg", 01x09
 https://wandavisionblog.files.wordpress.com/2021/03/wandavision-s01e09-720p-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/lupin.jpg" group-title="LUPIN - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/lupin.jpg", 01x01
@@ -2480,40 +2502,48 @@ https://theoffice09.files.wordpress.com/2021/02/the-office-s09e23-dub.mp4
 #EXTINF:-1 tvg-logo="https://theoffice8.files.wordpress.com/2020/12/9.jpg" group-title="THE OFFICE - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/09.jpg", 09x24
 https://theoffice09.files.wordpress.com/2021/02/the-office-s09e24-dub.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", OS CARROS
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", OS CARROS
 https://chaves1srl.files.wordpress.com/2021/04/os-carros.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O RADINHO DO QUICO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O RADINHO DO QUICO
 https://chaves1srl.files.wordpress.com/2021/04/o-radinho-do-quico.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O VELÓRIO DO SEU MADRUGA
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O VELÓRIO DO SEU MADRUGA
 https://chaves1srl.files.wordpress.com/2021/04/o-velorio-de-seu-madruga.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O CÃOZINHO SA DONA CLOTILDE
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O CÃOZINHO DA DONA CLOTILDE
 https://chaves1srl.files.wordpress.com/2021/04/o-caozinho-da-dona-clotilde.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", PAI POR ALGUMAS HORAS
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", PAI POR ALGUMAS HORAS
 https://chaves1srl.files.wordpress.com/2021/04/pai-por-algumas-horas.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O HOMEM INVISÍVEL
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O HOMEM INVISÍVEL
 https://chaves1srl.files.wordpress.com/2021/04/o-homem-invisivel.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", SEU MADRUGA FOTÓGRAFO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", SEU MADRUGA FOTÓGRAFO
 https://chaves1srl.files.wordpress.com/2021/04/o-fotografo.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O FILME DE TERROR
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O FILME DE TERROR
 https://chaves1srl.files.wordpress.com/2021/04/o-filme-de-terror.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O LIVRO DA CHIQUINHA
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O LIVRO DA CHIQUINHA
 https://chaves1srl.files.wordpress.com/2021/04/o-livro-da-chiquinha.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O SHOW DE IO-IOS
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O SHOW DE IO-IOS
 https://chaves1srl.files.wordpress.com/2021/04/o-show-de-io-ios.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O FANTASMA
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O FANTASMA
 https://chaves1srl.files.wordpress.com/2021/04/o-fantasma.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O CURTO CIRCUITO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O CURTO CIRCUITO
 https://chaves1srl.files.wordpress.com/2021/04/o-curto-circuito.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O DUELO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O DUELO
 https://chaves1srl.files.wordpress.com/2021/04/o-duelo.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O BELO ADORMECIDO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O BELO ADORMECIDO
 https://elchaves2.files.wordpress.com/2021/04/o-belo-adormecido.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O CASTIGO VEM A CAVALO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O CASTIGO VEM A CAVALO
 https://elchaves2.files.wordpress.com/2021/04/o-castigo-vem-a-cavalo.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O ANIVERSÁRIO DO QUICO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O ANIVERSÁRIO DO QUICO
 https://elchaves2.files.wordpress.com/2021/04/o-aniversario-do-quico.m4v
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/04/chaves.jpg", O ATROPELAMENTO
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", O ATROPELAMENTO
 https://elchaves2.files.wordpress.com/2021/04/o-atropelamento.m4v
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", ÁLBUM DE FIGURINHAS
+https://elchaves2.files.wordpress.com/2021/05/album-de-figurinhas.m4v
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", MAL ENTENDIDO
+https://elchaves2.files.wordpress.com/2021/05/mal-entendido.m4v
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", SEU MADRUGA PEGA O BATENTE
+https://elchaves2.files.wordpress.com/2021/06/seu-madruga-pega-no-batente.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ch.jpg" group-title="CHAVES - DUBLADO" background="https://jx7home.files.wordpress.com/2021/05/ch.jpg", SEU MADRUGA LARGA O BATENTE
+https://elchaves2.files.wordpress.com/2021/06/seu-madruga-larga-o-batente.mp4
 
 #EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/20200529_160011.jpg" group-title="STRANGER THINGS" background="https://image3home.files.wordpress.com/2020/11/20201103_234331.jpg",01x01
 https://strangerthings02data.files.wordpress.com/2020/05/stranger.things.s01e01.mp4.dub_.baixarseriesmp4.com_.mp4
