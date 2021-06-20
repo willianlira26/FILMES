@@ -1,22 +1,24 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 16/06/2021" background="httt", 16/06/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 20/06/2021" background="httt", 20/06/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mat-p.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mnt-w.jpg", MONSTROS NO TRABALHO (EM JULHO - VEJA O TRAILER)
+https://jx7home.files.wordpress.com/2021/06/mnt-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/06/spj2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/spjm2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/sj2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mou-w.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mou-w.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/mestres-do-universo-salvando-eternia.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/06/ss4.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/ss4.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/esquadrao-suicida-2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 16/06/2021" background="https://jx7home.files.wordpress.com/2021/06/whatif-1.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/whatif-1.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/whatif.mp4
 
-
-#EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="httjt",
-
+#EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="http",
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/luca-p.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/06/luca.jpg", LUCA (DUBLADO)
+https://jsjdhdf.files.wordpress.com/2021/06/luca-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUBLADO)
 https://2721data.files.wordpress.com/2021/05/godzilla-vs-kong-dublado.mp4
@@ -679,7 +681,7 @@ https://p44home.files.wordpress.com/2020/04/contatos-imediatos-do-terceiro-grau-
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/cruella-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/cruela.jpg", CRUELLA (DUBLADO)
 https://2721data.files.wordpress.com/2021/05/cruella-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mitchell-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/mitchells.jpg", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mitchell-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/mitchell.jpg", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
 https://weim37.files.wordpress.com/2021/05/a-familia-mitchell-ea-revolta-das-maquinas-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/croods2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/croods2.jpg", OS CROODS 2: NOVA ERA (DUBLADO)
 https://thejsjsg.files.wordpress.com/2021/04/os-croods-2-dublado.mp4
@@ -1249,7 +1251,7 @@ https://cdn01.fluehost.com/f/animacoes-dc/hd/69.mp4
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", SOUTH PARK:O FILME
 https://tenetdata.files.wordpress.com/2020/12/south-park-maior-melhor-e-sem-cortes.avi 
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/invocacao-3.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/invocacao-3-1.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (LEGENDADO)
 https://2721data.files.wordpress.com/2021/06/invocacao-do-mal-3-legendado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/04/wa.jpg", FUJA (DUB)
 https://hsjdjd.files.wordpress.com/2021/04/fuja-dub.mp4
