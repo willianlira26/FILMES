@@ -1,22 +1,26 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 20/06/2021" background="httt", 20/06/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 23/06/2021" background="httt", 23/06/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mat-p.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mnt-w.jpg", MONSTROS NO TRABALHO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mat-p.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mnt-w.jpg", MONSTROS NO TRABALHO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/mnt-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/04/vnn.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/vn-1.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/spjm2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/spjm2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/sj2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mou-w.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/mou-w.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/mestres-do-universo-salvando-eternia.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/ss4.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
-https://jx7home.files.wordpress.com/2021/04/esquadrao-suicida-2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 20/06/2021" background="https://jx7home.files.wordpress.com/2021/06/whatif-1.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/tss.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+https://jx7home.files.wordpress.com/2021/06/esquadrao-suicida-trailer-2.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 23/06/2021" background="https://jx7home.files.wordpress.com/2021/06/whatif-1.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/whatif.mp4
 
-#EXTINF:-1 tvg-logo="htns" group-title="LANÇAMENTOS" background="http",
+#EXTINF:-1 tvg-logo="htps" group-title="LANÇAMENTOS" background="http",
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (DUBLADO)
+https://offices04.files.wordpress.com/2021/06/mortal-kombat-2021-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/rpn.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/06/rpn.jpg", ROGAI POR NÕS (DUBLADO)
+https://sujdjd.files.wordpress.com/2021/06/rogai-por-nos-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/luca-p.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/06/luca.jpg", LUCA (DUBLADO)
 https://jsjdhdf.files.wordpress.com/2021/06/luca-dub.mp4
 
@@ -1404,6 +1408,8 @@ https://filmesbr24.files.wordpress.com/2019/05/v1dr0.2019.720p.dublado.mp4
 https://top2data.files.wordpress.com/2021/02/o-labirinto-do-fauno-dublado.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/02/20210206_153155.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2021/02/20210206_153116.jpg", O SEGREDO DA CABANA
 https://image3home.files.wordpress.com/2021/02/o-segredo-da-cabana.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/hush.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/hush.jpg", HUSH: A MORTE OUVE
+https://themzer.files.wordpress.com/2021/06/hush-a-morte-ouve-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/malp.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/05/malw.jpg", À ESPREITA DO MAL
 https://jsjdhdf.files.wordpress.com/2021/05/a-espreita-do-mal-dub.mp4
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video1/v4/22/3e/f2/223ef2b7-a5fb-619e-ea70-8308a62eea4b/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/02/inferno.jpg", ASSIM NA TERRA COMO NO INFERNO
@@ -1466,6 +1472,8 @@ https://filme10movie.files.wordpress.com/2020/10/jigsaw-2018-dub.mp4
 https://loki01u.files.wordpress.com/2021/06/loki-s01e01-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/loki-p.jpg" group-title="LOKI - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/loki2.jpg", 01x02
 https://loki01u.files.wordpress.com/2021/06/loki-s01e02-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/loki-p.jpg" group-title="LOKI - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/loki2.jpg", 01x03
+https://loki01u.files.wordpress.com/2021/06/loki-s01e03-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/st-p.jpg" group-title="SWEETH TOOTH - DUBLADO" background="https://jx7home.files.wordpress.com/2021/06/st-1.jpg", 01x01
 https://trysweettooth.files.wordpress.com/2021/06/s01e01.mp4
