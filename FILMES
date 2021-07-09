@@ -1,36 +1,34 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 07/07/2021" background="httt", 07/07/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 10/07/2021" background="httt", 10/07/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/06/vn-1.jpg", VIÚVA NEGRA (EM JULHO - VEJA O TRAILER)
-https://jx7home.files.wordpress.com/2021/04/viuva-negra.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/07/sj2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/spacejam2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/sj2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/06/hm-w.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/heman.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/mestres-do-universo-salvando-eternia.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/07/oes.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/esquadraosuicid.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/esquadrao-suicida-trailer-2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/whatif.jpg" group-title="ATUALIZADO 07/07/2021" background="https://jx7home.files.wordpress.com/2021/06/whatif-1.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
-https://jx7home.files.wordpress.com/2021/06/whatif.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/img_20210708_133730.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/whatif.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
+https://jx7home.files.wordpress.com/2021/07/whatif.mp4
 
 #EXTINF:-1 tvg-logo="htps" group-title="LANÇAMENTOS" background="http",
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/guerradoamanha.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/07/aguerradoamanha.jpg", A GUERRA DO AMANHÃ (DUBLADO)
-https://0hh3.files.wordpress.com/2021/07/guerra-do-amanha-2021-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/rdm-p1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/07/rdm-1.jpg", RUA DO MEDO: 1994 - PARTE 1 (DUBLADO)
-https://0hh3.files.wordpress.com/2021/07/rua-do-medo-1994-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/07/viuvanegra.jpg", VIÚVA NEGRA (DUB)
+https://278edu.files.wordpress.com/2021/07/viuva-negra-2021-dub.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/guerradoamanha.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/07/tomorrowwar.jpg", A GUERRA DO AMANHÃ (DUB)
+https://0hh3.files.wordpress.com/2021/07/guerra-do-amanha-2021-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (DUB)
 https://offices04.files.wordpress.com/2021/06/mortal-kombat-2021-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mortal.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/06/mk.jpg", MORTAL KOMBAT (LEG)
 https://themzer.files.wordpress.com/2021/04/mortal-kombat-leg.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (DUB)
 https://2721data.files.wordpress.com/2021/05/godzilla-vs-kong-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210211_002919.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/godvkong.jpg", GODZILLA VS KONG (LEG)
 https://hsjdjd.files.wordpress.com/2021/04/godzilla-vs-kong-legendado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/05/aemy.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/armyp.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/05/aemy.jpg", ARMY OF THE DEAD: INVASÃO EM LAS VEGAS (DUB)
 https://sujdjd.files.wordpress.com/2021/05/army-of-the-dead-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210309_124224.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/12/tenet.jpg", TENET (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210309_124224.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/12/tenet.jpg", TENET (DUB)
 https://tenetdata.files.wordpress.com/2020/12/tenet-2020-720p-dublado.mp4
 #EXTINF:-1 tvg-logo="https://filmes12movie.files.wordpress.com/2020/11/2713418.jpg" group-title="AÇÃO/AVENTURA" background="httt", ARMAS EM JOGO (DUB)
 https://infantil09data.files.wordpress.com/2020/11/armas-em-jogo-dub.mp4
@@ -58,13 +56,13 @@ https://5163home.files.wordpress.com/2020/06/ramboateofimdubhd-baixo.mp4
 https://video.wixstatic.com/video/f1e917_c9b9c1cdf9ed49c1b19d20cdf21cb510/480p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video113/v4/6f/d0/02/6fd002b1-a543-6f36-8381-27c1abdf9d2c/source/600x600bb.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/hellboy.jpg", HELLBOY (DUB)
 https://filmescar.files.wordpress.com/2019/08/hellboy.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4
-#EXTINF:-1 tvg-logo="http" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/godzilla-1.jpg", GODZILLA 1
+#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/godzilla-1.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/godzilla-1.jpg", GODZILLA 1
 https://filmesacaomovie.files.wordpress.com/2020/07/godzilla.2014.dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/pos.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/04/wall.jpg", GODZILLA 2 - REI DOS MONSTROS (DUB)
 https://fillmeze.files.wordpress.com/2019/08/godzilla.ii_.rei_.dos_.monstros.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4
 #EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/20200411_114346.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/02/20210204_135746.jpg", KONG: A ILHA DA CAVEIRA
 https://filme4movie.files.wordpress.com/2020/10/kong-ilha-da-caveira-2017-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210309_125517.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/12/20201221_183916.jpg", ALITA - ANJO DE COMBATE (DUB)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/20210309_125517.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/07/alita.jpg", ALITA - ANJO DE COMBATE (DUB)
 https://lancamentos2020art.files.wordpress.com/2020/02/alita.anjo_.de_.combate.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/a4/69/52/a4695262-0947-b878-fe7a-313bd3f598b8/source/600x600bb.jpg" group-title="AÇÃO/AVENTURA" background="https://image3home.files.wordpress.com/2020/11/bumblebee.jpg", BUMBLEBEE
 https://movies01video.files.wordpress.com/2020/03/buumblebee-dub-480p.mp4
@@ -231,11 +229,11 @@ https://top12data.files.wordpress.com/2021/03/um-principe-em-nova-york-2-dub.mp4
 https://fatewinxcode.files.wordpress.com/2021/01/um-principe-em-nova-york-dublado.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HyoqaRS.jpg" group-title="COMÉDIA" background="httt", TUDO BEM NO NATAL QUE VEM
 https://thechocolate8.files.wordpress.com/2020/12/tudo.bem_.no_.natal_.que_.vem_.2020.mp4
-#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/borat-2.png" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/02/borat-2.jpg", BORAT: FITA DE CINEMA SEGUINTE (DUBLADO)
+#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/borat-2.png" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/02/borat-2.jpg", BORAT: FITA DE CINEMA SEGUINTE (DUB)
 https://mansaoblyart.files.wordpress.com/2020/10/boratfitadub.mp4
-#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/borat-2.png" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/02/borat-2.jpg", BORAT: FITA DE CINEMA SEGUINTE (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/borat-2.png" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/02/borat-2.jpg", BORAT: FITA DE CINEMA SEGUINTE (LEG)
 https://mansaoblyart.files.wordpress.com/2020/10/boratfita-leg.mp4
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video114/v4/f3/5e/80/f35e8083-18b5-933a-62fa-6cab52c776a2/source/600x600bb.jpg" group-title="COMÉDIA" background="https://to4data.files.wordpress.com/2021/01/billted3.jpg", BILL E TED 3: ENCARE A MÚSICA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video114/v4/f3/5e/80/f35e8083-18b5-933a-62fa-6cab52c776a2/source/600x600bb.jpg" group-title="COMÉDIA" background="https://to4data.files.wordpress.com/2021/01/billted3.jpg", BILL E TED 3: ENCARE A MÚSICA (DUB)
 https://to4data.files.wordpress.com/2021/01/bill-e-ted-3-dublado.mp4
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video114/v4/f3/5e/80/f35e8083-18b5-933a-62fa-6cab52c776a2/source/600x600bb.jpg" group-title="COMÉDIA" background="https://to4data.files.wordpress.com/2021/01/billted3.jpg", BILL E TED 3: ENCARE A MÚSICA (LEG)
 https://fillmes5.files.wordpress.com/2020/10/bill-e-ted-3-legendado.mp4
@@ -328,7 +326,7 @@ https://69267home.files.wordpress.com/2020/04/ace-ventura-um-detetive-diferente-
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/big.jpg" group-title="COMÉDIA" background="https://jx7home.files.wordpress.com/2021/04/big.jpg", QUERO SER GRANDE
 https://9jej.files.wordpress.com/2021/04/quero-ser-grande-dublado.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210407_002217.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/04/20210407_002217.jpg", MEU PAI (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/20210407_002217.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/04/20210407_002217.jpg", MEU PAI (LEG)
 https://mrdjjs.files.wordpress.com/2021/04/meu-pai-legendado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/03/cherry.jpg", CHERRY: INOCÊNCIA PERDIDA (LEG)
 https://sobdbd.files.wordpress.com/2021/03/cherry-legendado.mp4
@@ -343,23 +341,23 @@ https://jx7home.files.wordpress.com/2021/03/minari-legendado.mp4
 https://top5dotsciencedotblog.files.wordpress.com/2021/02/nomadland-2020-leg.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/another.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/another.jpg", ANOTHER ROUND (LEG)
 https://top6data.files.wordpress.com/2021/02/another-round-2020-leg.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210208_225801.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210208_224427.jpg", MALCOLM E MARIE (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210208_225801.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210208_224427.jpg", MALCOLM E MARIE (LEG)
 https://top3data.files.wordpress.com/2021/02/malcolm-e-marie-legendado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210208_225801.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210208_224427.jpg", MALCOLM E MARIE (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210208_225801.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210208_224427.jpg", MALCOLM E MARIE (DUB)
 https://top3data.files.wordpress.com/2021/02/malcolm-e-marie-dublado.mp4
-#EXTINF:-1 tvg-logo="https://tofdata.files.wordpress.com/2021/01/bb.jpg" group-title="DRAMA" background="https://tofdata.files.wordpress.com/2021/01/chad.jpg", A VOZ SUPREMA DO BLUES (DUBLADO)
+#EXTINF:-1 tvg-logo="https://tofdata.files.wordpress.com/2021/01/bb.jpg" group-title="DRAMA" background="https://tofdata.files.wordpress.com/2021/01/chad.jpg", A VOZ SUPREMA DO BLUES (DUB)
 https://chefaodata.files.wordpress.com/2021/01/6706881750.2020.mp4
-#EXTINF:-1 tvg-logo="https://tenetdata.files.wordpress.com/2020/12/som.jpg" group-title="DRAMA" background="https://tenetdata.files.wordpress.com/2020/12/som.jpg", O SOM DO SILÊNCIO (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://tenetdata.files.wordpress.com/2020/12/som.jpg" group-title="DRAMA" background="https://tenetdata.files.wordpress.com/2020/12/som.jpg", O SOM DO SILÊNCIO (LEG)
 https://tenetdata.files.wordpress.com/2020/12/sound-of-metal-2020-leg.mp4
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/d6/0c/b1/d60cb138-f751-992e-bf04-8561d69145b4/wtt7682976722751667957.png/1786x365.png" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210205_130550.jpg", CIDADÃO KANE (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/d6/0c/b1/d60cb138-f751-992e-bf04-8561d69145b4/wtt7682976722751667957.png/1786x365.png" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210205_130550.jpg", CIDADÃO KANE (LEG)
 https://jx7home.files.wordpress.com/2021/02/cidadaokaneleg-baixo.mp4
-#EXTINF:-1 tvg-logo="https://mankdata.files.wordpress.com/2020/12/mank-1.jpg" group-title="DRAMA" background="https://mankdata.files.wordpress.com/2020/12/mank-2.jpg", MANK (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://mankdata.files.wordpress.com/2020/12/mank-1.jpg" group-title="DRAMA" background="https://mankdata.files.wordpress.com/2020/12/mank-2.jpg", MANK (LEG)
 https://mankdata.files.wordpress.com/2020/12/mank-2020-leg.mp4
-#EXTINF:-1 tvg-logo="https://mankdata.files.wordpress.com/2020/12/mank-1.jpg" group-title="DRAMA" background="https://mankdata.files.wordpress.com/2020/12/mank-2.jpg", MANK (DUBLADO)
+#EXTINF:-1 tvg-logo="https://mankdata.files.wordpress.com/2020/12/mank-1.jpg" group-title="DRAMA" background="https://mankdata.files.wordpress.com/2020/12/mank-2.jpg", MANK (DUB)
 https://mankdata.files.wordpress.com/2020/12/mank-2020-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_124440.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210204_124440.jpg", ERA UMA VEZ UM SONHO (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_124440.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210204_124440.jpg", ERA UMA VEZ UM SONHO (DUB)
 https://mansaoblyart.files.wordpress.com/2020/11/era-um-vez-um-sonho-dublado.mp4
-#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/7-chicago.png" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210204_124331.jpg", OS 7 DE CHICAGO (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://filme4movie.files.wordpress.com/2020/10/7-chicago.png" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210204_124331.jpg", OS 7 DE CHICAGO (LEG)
 https://filme4movie.files.wordpress.com/2020/10/os.7.de_.chicago.mp4.leg_.baixarseriesmp4.org_.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_123415.jpg" group-title="DRAMA" background="https://jx7home.files.wordpress.com/2021/02/20210204_123415.jpg", UM LINDO DIA NA VIZINHANÇA (DUB)
 https://thefilmes3.files.wordpress.com/2020/03/um.lindo_.dia_.na_.vizinhanca.2020.mp4.dub_.baixarseriesmp4.org_.mp4
@@ -460,15 +458,15 @@ https://filmes7movie.files.wordpress.com/2020/09/resgate-do-soldado-ryan-dub.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/12/cristo.png" group-title="DRAMA" background="https://image3home.files.wordpress.com/2020/12/cristo.png", A PAIXÃO DE CRISTO
 http://144.217.77.29/tim1311/A.Paix%c3%a3o.De.Cristo.2004.720p.BRRip.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mkv
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/07/ldj.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (DUB)
 https://zsjlonline.files.wordpress.com/2021/03/snydercut-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/03/jl-1.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/p-1.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/07/ldj.jpg", LIGA DA JUSTIÇA DE ZACK SNYDER (LEG)
 https://zsjlonline.files.wordpress.com/2021/03/snydercut-legendado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/mm84.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/03/ww-84.jpg", MULHER-MARAVILHA 1984 (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/mm84.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/03/ww-84.jpg", MULHER-MARAVILHA 1984 (DUB)
 https://legadelo.files.wordpress.com/2021/02/mulher-maravilha-1984-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/newmutants.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/novos-mutantes.jpg", OS NOVOS MUTANTES (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/newmutants.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/novos-mutantes.jpg", OS NOVOS MUTANTES (DUB)
 https://filmes14movie.files.wordpress.com/2020/11/novos-mutantes-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/newmutants.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/novos-mutantes.jpg", OS NOVOS MUTANTES (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/newmutants.jpg" group-title="FICÇÃO" background="https://image3home.files.wordpress.com/2020/11/novos-mutantes.jpg", OS NOVOS MUTANTES (LEG)
 https://filmes14movie.files.wordpress.com/2020/11/novos-mutantes-legendado.mp4
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video123/v4/0a/29/f4/0a29f489-f6b8-8acb-e0f6-302ca126f40a/pr_source.lsr/600x600bb.jpg" group-title="FICÇÃO" background="https://jx7home.files.wordpress.com/2021/02/20210208_235516.jpg", AD ASTRA (DUB)
 https://videoesonline.files.wordpress.com/2019/12/adastradub.mp4
@@ -683,13 +681,15 @@ https://mymnvsh.files.wordpress.com/2021/03/blade-runner-2049-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="FICÇÃO" background="httt", CONTATOS IMEDIATOS DE TERCEIRO GRAU
 https://p44home.files.wordpress.com/2020/04/contatos-imediatos-do-terceiro-grau-1977-bdrip-720p-dublado-dat2014.mp4
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/luca-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/luca.jpg", LUCA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/barteloki.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/07/simpsons.jpg", OS SIMPSONS: O BEM, O BART E O LOKI (CURTA - DUB)
+https://jx7home.files.wordpress.com/2021/07/obem-obart-oloki-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/luca-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/luca.jpg", LUCA (DUB)
 https://jsjdhdf.files.wordpress.com/2021/06/luca-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/cruella-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/cruela.jpg", CRUELLA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/05/cruella-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/cruela.jpg", CRUELLA (DUB)
 https://2721data.files.wordpress.com/2021/05/cruella-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/mitchell-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/mitchell.jpg", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
 https://weim37.files.wordpress.com/2021/05/a-familia-mitchell-ea-revolta-das-maquinas-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/croods2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/croods2.jpg", OS CROODS 2: NOVA ERA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/croods2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/croods2.jpg", OS CROODS 2: NOVA ERA (DUB)
 https://thejsjsg.files.wordpress.com/2021/04/os-croods-2-dublado.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/big-pai-filho-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/03/big-pai-filho-2.jpg", BIG PAI BIG FILHO 2
 https://acao2data.files.wordpress.com/2021/03/big-pai-big-filho-2-dub.mp4
@@ -697,17 +697,17 @@ https://acao2data.files.wordpress.com/2021/03/big-pai-big-filho-2-dub.mp4
 https://mrdjjs.files.wordpress.com/2021/03/pinoquio-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/img_20210205_131127.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/raya-1.jpg", RAYA E O ÚLTIMO DRAGÃO (DUB)
 https://top13u.files.wordpress.com/2021/03/raya-eo-ultimo-dragao-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/tej.jpg", TOM E JERRY O FILME (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/tej.jpg", TOM E JERRY O FILME (DUB)
 https://mrdjjs.files.wordpress.com/2021/03/tom-e-jerry-2021-dub.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/tej.jpg", TOM E JERRY O FILME (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/tej.jpg", TOM E JERRY O FILME (LEG)
 https://top9u.files.wordpress.com/2021/03/tom-e-jerry-2021-leg.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg", WOLFWALKERS (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg", WOLFWALKERS (DUB)
 https://top3data.files.wordpress.com/2021/02/wolfwalkers-dublado.mp4
-#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/01/20210124_122135.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/trolls-2.jpg", TROLLS 2 (DUBLADO)
+#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2021/01/20210124_122135.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/trolls-2.jpg", TROLLS 2 (DUB)
 https://thechocolate8.files.wordpress.com/2021/01/trolls-2-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/soul.jpg", SOUL (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/soul.jpg", SOUL (DUB)
 https://filmes15movie.files.wordpress.com/2020/12/soul-dublado.mp4
-#EXTINF:-1 tvg-logo="https://filmes14movie.files.wordpress.com/2020/12/3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://filmes14movie.files.wordpress.com/2020/12/3.jpg", LEGO STAR WARS - ESPECIAL DE NATAL (DUBLADO)
+#EXTINF:-1 tvg-logo="https://filmes14movie.files.wordpress.com/2020/12/3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://filmes14movie.files.wordpress.com/2020/12/3.jpg", LEGO STAR WARS - ESPECIAL DE NATAL (DUB)
 https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial-de-natal.mp4
 #EXTINF:-1 tvg-logo="https://thechocolate8.files.wordpress.com/2020/12/x-do-natal.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O X DO NATAL
 https://thechocolate8.files.wordpress.com/2020/12/oxdonataldub-baixo.mp4
@@ -715,25 +715,25 @@ https://thechocolate8.files.wordpress.com/2020/12/oxdonataldub-baixo.mp4
 https://top12data.files.wordpress.com/2021/03/sapatinho-vermelho-e-os-7-anoes-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_231358.png" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/06/bob3.jpg", BOB ESPONJA: O INCRÍVEL RESGATE
 https://filmes14movie.files.wordpress.com/2020/11/bob-esponja-3-incrivel-resgate-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg", BEN 10 CONTRA O UNIVERSO (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg", BEN 10 CONTRA O UNIVERSO (DUB)
 https://filmes12movie.files.wordpress.com/2020/11/ben-10-contra-o-universo-filme-dub.mp4
-#EXTINF:-1 tvg-logo="https://tofdata.files.wordpress.com/2021/01/lua.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/lua.jpg", A CAMINHO DA LUA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://tofdata.files.wordpress.com/2021/01/lua.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/lua.jpg", A CAMINHO DA LUA (DUB)
 https://filme11movie.files.wordpress.com/2020/11/a_caminho_da_lua-dub.mp4
 #EXTINF:-1 tvg-logo="https://tofdata.files.wordpress.com/2021/01/olaf-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://tofdata.files.wordpress.com/2021/01/olfa-3.jpg", ERA UMA VEZ UM BONECO DE NEVE (CURTA FROZEN - DUBLADO)
 https://filmes14movie.files.wordpress.com/2020/12/era-uma-vez-um-boneco-d-neve-dub.mp4
-#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/ccou_poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="http", PHINEAS E FERB: CANDENCE CONTRA O UNIVERSO (DUBLADO)
+#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/ccou_poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="http", PHINEAS E FERB: CANDENCE CONTRA O UNIVERSO (DUB)
 https://filme11movie.files.wordpress.com/2020/11/phineas-e-ferb-contra-o-universo-dub.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/bruxass.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/bruxas.jpg", CONVENÇÃO DE BRUXAS (2020 - DUBLADO)
 https://to4data.files.wordpress.com/2021/01/convencao-das-bruxas-2020-dublado.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/bruxass.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/bruxas.jpg", CONVENÇÃO DE BRUXAS (2020 - LEGENDADO)
 https://filme10movie.files.wordpress.com/2020/11/convencao-das-bruxas-2020-legendado.mp4
-#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/enola.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/20210214_010201.jpg", ENOLA HOLMES (DUBLADO)
+#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/enola.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/02/20210214_010201.jpg", ENOLA HOLMES (DUB)
 https://filme2movie.files.wordpress.com/2020/09/enolaholmesdub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/ldjsa.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/ldjs.jpg", LIGA DA JUSTIÇA SOMBRIA: GUERRA EM APOKOLIPS (NOVA DUBLAGEM)
 https://thejsjsg.files.wordpress.com/2021/04/liga-da-justica-sombria-guerra-de-apokolips-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/sp.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/03/sw.jpg", SUPERMAN: O HOMEM DO AMANHÃ (NOVA DUBLAGEM)
 https://acao2data.files.wordpress.com/2021/03/superman-homem-do-amanha-dub.mp4
-#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/mulan.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://to4data.files.wordpress.com/2021/01/mulan.jpg", MULAN - 2020 (DUBLADO)
+#EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/mulan.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://to4data.files.wordpress.com/2021/01/mulan.jpg", MULAN - 2020 (DUB)
 https://filme1movie.files.wordpress.com/2020/09/2020mulandub.mp4
 #EXTINF:-1 tvg-logo="https://si7e4.files.wordpress.com/2020/08/scooby.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/05/scoob.jpg", SCOOBY - O FILME (DUB)
 https://si7e4.files.wordpress.com/2020/08/scooby.filme_.2020.720p.dublado.mp4
@@ -778,9 +778,9 @@ https://filmes15movie.files.wordpress.com/2020/12/jovenstitasemacaodublado-baixo
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c5/46/f2/c546f2ff-3265-9b87-cc16-b205e9b6dc9c/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", MY HERO ACADEMIA - 2 HERÓIS (DUB)
 https://1filmeinfantis.files.wordpress.com/2019/12/myheroacademia-baixo.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/aladdin.jpg", ALADDIN (2019) - DUB
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/07/aladdin.jpg", ALADDIN (2019) - DUB
 https://filmes2go.files.wordpress.com/2019/08/aladdin.2019.720p.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/04/aladdin.jpg", ALADDIN (2019) - LEG
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://jx7home.files.wordpress.com/2021/07/aladdin.jpg", ALADDIN (2019) - LEG
 https://filmeslegmovie.files.wordpress.com/2019/08/aladdinleg.mp4
 #EXTINF:-1 tvg-logo="https://image3home.files.wordpress.com/2020/11/monica.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="https://image3home.files.wordpress.com/2020/11/monica.jpg", TURMA DA MÕNICA: LAÇOS
 https://filmes2go.files.wordpress.com/2019/08/turma.da_.mc3b4nica.lac3a7os.2019.720p.mp4
@@ -1263,13 +1263,15 @@ https://cdn01.fluehost.com/f/animacoes-dc/hd/69.mp4
 #EXTINF:-1 tvg-logo="" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", SOUTH PARK:O FILME
 https://tenetdata.files.wordpress.com/2020/12/south-park-maior-melhor-e-sem-cortes.avi 
 
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/lugarsilencioso2.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/20210625_115309.jpg", UM LUGAR SILENCIOSO: PARTE 2 (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/rdm-p1.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/07/rdm-1.jpg", RUA DO MEDO: 1994 - PARTE 1 (DUB)
+https://0hh3.files.wordpress.com/2021/07/rua-do-medo-1994-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/lugarsilencioso2.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/20210625_115309.jpg", UM LUGAR SILENCIOSO: PARTE 2 (LEG)
 https://0hh3.files.wordpress.com/2021/06/um-lugar-silencioso-2-leg.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/idm3-1.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/idm3-1.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (DUB)
 https://9jd3.files.wordpress.com/2021/06/invocacao-do-mal-3-dublado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/idm3-1.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/400186300145_175441.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/idm3-1.jpg", INVOCAÇÃO DO MAL 3: A ORDEM DO DEMÔNIO (LEG)
 https://2721data.files.wordpress.com/2021/06/invocacao-do-mal-3-legendado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/rpn.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/rpn.jpg", ROGAI POR NÓS (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/rpn.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/rpn.jpg", ROGAI POR NÓS (DUB)
 https://sujdjd.files.wordpress.com/2021/06/rogai-por-nos-dub.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/04/wa.jpg", FUJA (DUB)
 https://hsjdjd.files.wordpress.com/2021/04/fuja-dub.mp4
@@ -1279,17 +1281,17 @@ https://top12data.files.wordpress.com/2021/03/freaky-no-corpo-de-um-assassino-du
 https://top5dotsciencedotblog.files.wordpress.com/2021/02/freaky-2020-leg.mp4
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210222_235017.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/02/little-things.jpg", PEQUENOS VESTÍGIOS (LEG)
 https://top6data.files.wordpress.com/2021/02/os-pequenos-vestigios-legendado.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210207_001434.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/02/20210207_001325.jpg", O QUE FICOU PARA TRÁS (DUBLADO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/02/20210207_001434.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/02/20210207_001325.jpg", O QUE FICOU PARA TRÁS (DUB)
 https://jx7home.files.wordpress.com/2021/02/o-que-ficou-para-tras-dub.mp4
-#EXTINF:-1 tvg-logo="https://filme1movie.files.wordpress.com/2020/09/diabo.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2020/11/diabo.jpg", O DIABO DE CADA DIA (DUBLADO)
+#EXTINF:-1 tvg-logo="https://filme1movie.files.wordpress.com/2020/09/diabo.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2020/11/diabo.jpg", O DIABO DE CADA DIA (DUB)
 https://filme1movie.files.wordpress.com/2020/09/o.diabo_.de_.cada_.dia_.2020.dub_.mp4
-#EXTINF:-1 tvg-logo="https://filme1movie.files.wordpress.com/2020/09/diabo.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2020/11/diabo.jpg", O DIABO DE CADA DIA (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://filme1movie.files.wordpress.com/2020/09/diabo.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2020/11/diabo.jpg", O DIABO DE CADA DIA (LEG)
 https://filme1movie.files.wordpress.com/2020/09/o.diabo_.de_.cada_.dia_.2020.leg_.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/d7/7d/01/d77d0101-1ed4-62d4-6614-24488c5a1215/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/03/invisivel.jpg", O HOMEM INVISÍVEL (DUB)
 https://acao3data.files.wordpress.com/2020/06/o.homem_.invisivel.2020.720p.dublado.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video113/v4/d7/7d/01/d77d0101-1ed4-62d4-6614-24488c5a1215/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/03/invisivel.jpg", O HOMEM INVISÍVEL (LEG)
 https://legendacode.files.wordpress.com/2020/03/omaninvisiveleg-baixo.mp4
-#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/facas_segredos.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/07/efes.jpg", ENTRE FACAS E SEGREDOS (DUB)
+#EXTINF:-1 tvg-logo="https://theimg0data.files.wordpress.com/2020/06/facas_segredos.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/07/efes2.jpg", ENTRE FACAS E SEGREDOS (DUB)
 https://zaazart.files.wordpress.com/2020/02/entrefacasesegredosdub-baixo.mp4
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video123/v4/78/2e/32/782e329d-97d1-9cc0-da47-e641a7c1f0b1/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/07/grito.jpg", O GRITO
 https://acao4data.files.wordpress.com/2020/06/ogritoodub-baixo.mp4
@@ -1454,7 +1456,7 @@ https://4827data.files.wordpress.com/2020/01/a-bruxa-2016-5.1-ch-dublado-720p-by
 https://infantil10data.files.wordpress.com/2020/07/assassinato.no_.expresso.do_.oriente.mp4
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Video123/v4/67/0b/f9/670bf9b5-4c3a-2ddf-d393-8cc0df7fcda4/pr_source.lsr/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/02/20210204_130017.jpg", SE7EN - OS SETE CRIMES CAPITAIS
 https://e99home.files.wordpress.com/2020/06/se7en-os-sete-crimes-capitais.mp4
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/66/28/c0/6628c02b-8996-478d-6387-361291617482/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/ls-1.jpg", UM LUGAR SILENCIOSO (LEGENDADO)
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Video128/v4/66/28/c0/6628c02b-8996-478d-6387-361291617482/source/600x600bb.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://jx7home.files.wordpress.com/2021/06/ls-1.jpg", UM LUGAR SILENCIOSO (LEG)
 https://3st02.files.wordpress.com/2021/06/um-lugar-silencioso-1-leg.mp4
 #EXTINF:-1 tvg-logo="https://r350home.files.wordpress.com/2020/04/20200415_001147.jpg" group-title="TERROR/SUSPENSE/MISTÉRIO" background="https://image3home.files.wordpress.com/2020/11/buscando.jpg", BUSCANDO
 https://filme11movie.files.wordpress.com/2020/11/buscando-dublado.mp4
@@ -1742,38 +1744,37 @@ https://mandalorian02data.files.wordpress.com/2020/12/the-mandalorian-s02e07-720
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/m2.jpg" group-title="THE MANDALORIAN - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/mando-2.jpg",02x08
 https://mandalorian02data.files.wordpress.com/2020/12/the-mandalorian-s02e08-720p-dub.mp4
 
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x01
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x01
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e01.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x02
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x02
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e02.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x03
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x03
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e03.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x04
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x04
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e04.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x05
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x05
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e05.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x06
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x06
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e06.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x07
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x07
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e07.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys1.jpg",01x08
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s01.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-1.jpg",01x08
 https://theboys01data.files.wordpress.com/2020/10/the.boys_.s01e08.dub_.mp4
-
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x01
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x01
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e01.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x02
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x02
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e02.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x03
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x03
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e03.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x04
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x04
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e04.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x05
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x05
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e05.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x06
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x06
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e06.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x07
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x07
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e07.dub_.mp4
-#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/02/theboys2.jpg",02x08
+#EXTINF:-1 tvg-logo="https://theboys01data.files.wordpress.com/2020/10/s02.jpg" group-title="THE BOYS - DUBLADO" background="https://jx7home.files.wordpress.com/2021/07/boys-2.jpg",02x08
 https://theboys02data.files.wordpress.com/2020/10/the.boys_.s02e08.dub_.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/lc-p.jpg" group-title="LOVECRAFT COUNTRY - DUBLADO" background="https://jx7home.files.wordpress.com/2021/03/lc-w.jpg",01x01
