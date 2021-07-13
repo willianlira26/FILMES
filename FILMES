@@ -1,20 +1,24 @@
 #EXTM3U size="big"
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 10/07/2021" background="httt", 10/07/2021
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 13/07/2021" background="httt", 13/07/2021
 https://jx7home.files.wordpress.com/2021/04/art.jpg
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/art.jpg" group-title="ATUALIZADO 13/07/2021" background="https://jx7home.files.wordpress.com/2021/03/spn.jpg", EPS DE SUPERNATURAL DISPONÍVEIS AQUI (ABRA O VÍDEO)
 https://jx7home.files.wordpress.com/2021/01/1.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/spacejam2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/sj2.jpg" group-title="ATUALIZADO 13/07/2021" background="https://jx7home.files.wordpress.com/2021/07/spacejam2.jpg", SPACE JAM: UM NOVO LEGADO (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/sj2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/heman.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/mou-p.jpg" group-title="ATUALIZADO 13/07/2021" background="https://jx7home.files.wordpress.com/2021/07/heman.jpg", MESTRES DO UNIVERSO - SALVANDO ETERNIA (EM JULHO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/mestres-do-universo-salvando-eternia.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/esquadraosuicid.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/03/esp.jpg" group-title="ATUALIZADO 13/07/2021" background="https://jx7home.files.wordpress.com/2021/07/oes-1.jpg", O ESQUADRÃO SUICIDA (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/06/esquadrao-suicida-trailer-2.mp4
-#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/img_20210708_133730.jpg" group-title="ATUALIZADO 10/07/2021" background="https://jx7home.files.wordpress.com/2021/07/whatif.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/img_20210708_133730.jpg" group-title="ATUALIZADO 13/07/2021" background="https://jx7home.files.wordpress.com/2021/07/whatif.jpg", WHAT IF...? (EM AGOSTO - VEJA O TRAILER)
 https://jx7home.files.wordpress.com/2021/07/whatif.mp4
 
 #EXTINF:-1 tvg-logo="htps" group-title="LANÇAMENTOS" background="http",
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/04/po-1.jpg" group-title="LANÇAMENTOS" background="https://jx7home.files.wordpress.com/2021/07/viuvanegra.jpg", VIÚVA NEGRA (DUB)
 https://278edu.files.wordpress.com/2021/07/viuva-negra-2021-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/rdm2p.jpg" group-title="LAN�AMENTOS" background="https://jx7home.files.wordpress.com/2021/07/rdm2.jpg", RUA DO MEDO: 1978 - PARTE 2 (DUB)
+https://mnt1hr.files.wordpress.com/2021/07/rua-do-medo-p2-dub.mp4
+#EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/06/olongodiadasbruxas1.jpg" group-title="LAN�AMENTOS" background="https://jx7home.files.wordpress.com/2021/07/batmanlongodiadasbruxas.jpg", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 1 (DUB)
+https://278edu.files.wordpress.com/2021/07/batman-longo-dia-das-bruxas-1-dub.mp4
 
 #EXTINF:-1 tvg-logo="https://jx7home.files.wordpress.com/2021/07/guerradoamanha.jpg" group-title="AÇÃO/AVENTURA" background="https://jx7home.files.wordpress.com/2021/07/tomorrowwar.jpg", A GUERRA DO AMANHÃ (DUB)
 https://0hh3.files.wordpress.com/2021/07/guerra-do-amanha-2021-dub.mp4
